@@ -1,0 +1,64 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+#logo_container {
+	font: bold 20px courier;
+}
+#tab{
+	font:bold 15px georgia;
+}
+#center{
+	text-align:center left;
+	font: bold 40px tahoma;
+}
+#beans{
+	font:20px
+}
+#hurt{
+	text-align:center-right;
+}
+#blue{
+	text-align:center;
+	font:bold 20px courier;
+}
+#them{
+	text-align:center;
+	font:bold 20px georgia;
+}
+#yes{
+	font:bold 60px comic sans ms;
+}
+#top_menu{
+	background-color:#696969;
+	opacity: 30s;
+}
+#footer{
+	font:bold 30px comic sans ms;
+    opacity:40px;	
+}
+#down_footer{
+	background-color:#2f4f4f;
+}
+#body{
+	background-color:#dcdcdc;
+}
+#body_me{
+	background-color:#fff8dc;
+}
+#bold{
+	font:bold 30px comic sans ms;
+}
+#logo{border-color:#2f4f4f;
+
+}
